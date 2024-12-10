@@ -1,4 +1,4 @@
-# PocketDTA
+# PocketDTA: Predicting Drug-Target Affinity Using Three-Dimensional Structure of Protein Pocket and Geometric Deep Learning
 ![PocketDTA](doc/PocketDTA.png)
 
 
