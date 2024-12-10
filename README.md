@@ -19,7 +19,7 @@ rdkit==2024.3.6
 ## Data
 We provide raw protein structure data, as well as data that has been segmented. In addition, we also provide data that has been processed.You can download them using the links below:
 ```
-var foo = 'bar'
+https://zenodo.org/records/14286374
 ```
 ## Pre-trained model
 1. Protein pre-trained model
